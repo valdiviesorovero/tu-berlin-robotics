@@ -1,0 +1,3 @@
+/home/jose/tu-berlin-robotics/A1/build/CMakeFiles/rebuild_cache.dir
+/home/jose/tu-berlin-robotics/A1/build/CMakeFiles/edit_cache.dir
+/home/jose/tu-berlin-robotics/A1/build/CMakeFiles/controlDLL.dir
